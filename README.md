@@ -1,2 +1,4 @@
 # google-solution-challenge
-I choose topic Peace, Justice and Strong Institutions from solution theme. we make a app which help to tourist and girls also. Some time tourist face problem in other country so this app helps to reach police and help at there current location with simple alert button press.
+I choose the topic of Peace, Justice and Strong Institutions from the solution theme. we made an app which helps tourists and girls also. Sometimes tourists face problems in another country so this app helps to reach the police and help at their current location with a simple alert button press.
+This app allows permitting to cops or other security officers to reach a crime place to resolve it and stop big crimes from happening.
+
